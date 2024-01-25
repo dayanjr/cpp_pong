@@ -1,0 +1,12 @@
+﻿  Win32_platform.cpp
+C:\Users\h_linford0410\Dropbox\PC\Documents\GitHub\C++\game_in_c++\game_in_c++\Render.cpp(36,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\h_linford0410\Dropbox\PC\Documents\GitHub\C++\game_in_c++\game_in_c++\Render.cpp(37,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\h_linford0410\Dropbox\PC\Documents\GitHub\C++\game_in_c++\game_in_c++\Render.cpp(38,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\h_linford0410\Dropbox\PC\Documents\GitHub\C++\game_in_c++\game_in_c++\Render.cpp(39,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\h_linford0410\Dropbox\PC\Documents\GitHub\C++\game_in_c++\game_in_c++\Win32_platform.cpp(41): warning C4715: 'window_callback': not all control paths return a value
+C:\Users\h_linford0410\Dropbox\PC\Documents\GitHub\C++\game_in_c++\game_in_c++\Win32_platform.cpp(84): error C4789: buffer 'input' of size 8 bytes will be overrun; 1 bytes will be written starting at offset 14
+C:\Users\h_linford0410\Dropbox\PC\Documents\GitHub\C++\game_in_c++\game_in_c++\Win32_platform.cpp(84): error C4789: buffer 'input' of size 8 bytes will be overrun; 1 bytes will be written starting at offset 14
+C:\Users\h_linford0410\Dropbox\PC\Documents\GitHub\C++\game_in_c++\game_in_c++\Win32_platform.cpp(83): error C4789: buffer 'input' of size 8 bytes will be overrun; 1 bytes will be written starting at offset 10
+C:\Users\h_linford0410\Dropbox\PC\Documents\GitHub\C++\game_in_c++\game_in_c++\Win32_platform.cpp(83): error C4789: buffer 'input' of size 8 bytes will be overrun; 1 bytes will be written starting at offset 10
+C:\Users\h_linford0410\Dropbox\PC\Documents\GitHub\C++\game_in_c++\game_in_c++\Win32_platform.cpp(82): error C4789: buffer 'input' of size 8 bytes will be overrun; 1 bytes will be written starting at offset 12
+C:\Users\h_linford0410\Dropbox\PC\Documents\GitHub\C++\game_in_c++\game_in_c++\Win32_platform.cpp(82): error C4789: buffer 'input' of size 8 bytes will be overrun; 1 bytes will be written starting at offset 12
